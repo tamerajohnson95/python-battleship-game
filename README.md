@@ -45,6 +45,10 @@ The project was created to practice Python programming fundamentals including lo
 5. The player continues until the ship is found or all attempts have been used.
 6. The game displays the final result.
 
+## Game Preview
+
+![Battleship Game Preview](battleship_demo.png)
+
 ## What I Learned
 
 This project strengthened my understanding of Python program flow and helped me learn how several programming concepts can work together within one application. I gained additional experience using loops, conditions, user input, validation, functions, and randomization while designing and debugging the game's logic.
